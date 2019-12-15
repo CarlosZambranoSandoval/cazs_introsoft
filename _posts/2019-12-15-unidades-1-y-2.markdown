@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Clases de Introducción: Unidades 1 y 2"
+date:   2019-12-15 12:53:07 -0500
+categories: jekyll update
+---
+En este apartado se incluirán enlaces a las clases de la asignatura de Introducción a Ingeniería de Software, las cuales fueron impartidas durante el primer parcial del Primer Semestre de la carrera.
+
+La inclusión de estas clases al sitio se hace con el fin de que esta información esté dsiponible para todo público.
+A continuación, se dejarán los enlaces de Google Drive correspondientes a cada unidad de estudio.
+
+[Unidad 1][unidad-1]
+
+[Unidad 2][unidad-2]
+
+
+[unidad-1]: https://drive.google.com/open?id=1-DH3hBpjPEGm-ycRn26I5n6Cj6He6JUb
+[unidad-2]: https://drive.google.com/open?id=1-IqnXYHH0zBZ0jLgWdkEV_NnYOAXaNcg

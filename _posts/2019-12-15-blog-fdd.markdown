@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Blog: Desarrollo basado en funciones"
+date:   2019-12-15 12:53:07 -0500
+categories: jekyll update
+---
+También llamado FDD por las siglas de su nombre en inglés: Feature Drive Design. Fue desarrollado por Jeff Luca y Peter Coad a mediados de los 90, y consiste en una metodología ágil diseñada para el desarrollo de software, basada en la calidad y el monitoreo constante del proyecto.​
+Se preocupa de la calidad, recorta presupuestos, propone terminar un proyecto en plazos cortos, no hace enfasis en requerimientos sino en el diseño y construcción​.
+
+Ventajas
+---
+Ahorro de tiempo y dinero, se trabaja con el cliente, hay una rápida respuesta a los cambios de requisitos y las entregas son a corto plazo.
+
+Desventajas
+---
+Hay falta de documentación, existe dependencia del cliente y hay falta de reusabilidad.
